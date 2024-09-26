@@ -1,0 +1,78 @@
+*{
+  box-sizing: border-box;
+}
+
+html, body, #root, .App{
+  width: 100%;
+  height: 100%;
+}
+
+.p-16{
+  padding: 16px;
+}
+
+.m0{
+  margin: 0;
+}
+
+.gap-16{
+  gap: 16px;
+}
+
+.w-100{
+  width: 100%;
+}
+.h-100{
+  height: 100%;
+}
+
+.cp{
+  cursor: pointer;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.justify-center{
+  display: flex;
+  justify-content: center;
+}
+
+.space-btw{
+  display: flex;
+  justify-content: space-between;
+}
+
+.align-itm-center{
+  display: flex;
+  align-items: center;
+}
+
+.grid{
+  display: grid;
+}
+
+.employee-form-container{
+  width: 400px;
+  height: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+}
+
+.MuiTableCell-head{
+  font-weight: 900 !important;
+}
+
+.MuiTableCell-root{
+  text-align: left !important;
+}
+@media only screen and (max-width: 768px) {
+  .employee-form-container{
+    width: 100%;
+  }
+}

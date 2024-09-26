@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": "4",
+      "name": "Barry Allen",
+      "email": "barry.allen@example.com",
+      "employeeID": "EMP003",
+      "mobile": "7654321098",
+      "jobRole": "Developer"
+    },
+    {
+      "id": "5",
+      "name": "Arthur Curry",
+      "email": "arthur.curry@example.com",
+      "employeeID": "EMP004",
+      "mobile": "6543210987",
+      "jobRole": "Developer"
+    },
+    {
+      "id": "0db4",
+      "name": "Santhosh",
+      "email": "santhoshepisto@gmail.com",
+      "employeeID": "1234",
+      "mobile": "9092536253",
+      "jobRole": "Manager"
+    },
+    {
+      "id": "b9e6",
+      "name": "Vaishnavi K",
+      "email": "vaishnavik3599@gmail.com",
+      "employeeID": "2578",
+      "mobile": "9025371848",
+      "jobRole": "Developer"
+    },
+    {
+      "id": "a225",
+      "name": "Vaishjour",
+      "email": "vaishnavik3599@gmail.com",
+      "employeeID": "5642",
+      "mobile": "9025371848",
+      "jobRole": "Journalist"
+    },
+    {
+      "id": "cc80",
+      "name": "vaishu super",
+      "email": "vaishnavik3599@gmail.com",
+      "employeeID": "8488344543",
+      "mobile": "9025371848",
+      "jobRole": "Developer"
+    }
+  ]
+}
